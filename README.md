@@ -8,6 +8,9 @@ Olá! Bem vindo a este perfil.	😎
 <p align="center">
 Thiago, 22 anos, Desenvolvedor em formação pelo UniSENAI Campus Joinville.
 </p>
+<p align="right">
+
+</p>
 </h4>
 
 #
@@ -15,25 +18,36 @@ Thiago, 22 anos, Desenvolvedor em formação pelo UniSENAI Campus Joinville.
 ###	Sobre o curso:
 * Tecnologia em Análise e Desenvolvimento de Sistemas
 * 3º Semestre
+* Desenvolvendo: POO - Getters e Setters
+* Link: https://github.com/mauesck/WorkspacePOO_Mauesck
 
 #
 
 ###	Competências:
 * Lógica
-* Eclipse
 * Java
-* Git - Versionamento
+* Eclipse
+* Git
 * Orientação a objetos
 * Scripts - Google Sheets
 
 #
 
 <h3>
-<p align="center">	Contatos: </p>
+<p align="center">Redes sociais: </p>
 </h3>
-	
+
 <p align="center">
-<a href="https://instagram.com/mauesk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	<a href="https://www.linkedin.com/in/thiago-mauesck-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>	<a href = "mauesckt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/mauesk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	<a href="https://www.linkedin.com/in/thiago-mauesck-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+
+#
+<h3>
+<p align="center">Contato 📩</p>
+</h3>
+
+<p align="center">
+mauesckt@gmail.com
 </p>
 
 #
