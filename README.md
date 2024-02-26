@@ -18,7 +18,6 @@ Thiago, 23 anos, Desenvolvedor em formação.
 ###	Sobre o curso:
 * Tecnologia em Análise e Desenvolvimento de Sistemas
 * 5º Semestre
-* Link: https://github.com/mauesck/WorkspacePOO_Mauesck
 
 #
 
