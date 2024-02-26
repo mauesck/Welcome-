@@ -17,16 +17,15 @@ Thiago, 23 anos, Desenvolvedor em formação.
 
 ###	Sobre o curso:
 * Tecnologia em Análise e Desenvolvimento de Sistemas
-* 3º Semestre
-* Desenvolvendo: POO - Getters e Setters
+* 5º Semestre
 * Link: https://github.com/mauesck/WorkspacePOO_Mauesck
 
 #
 
 ###	Competências:
-* Lógica
 * Java
-* Eclipse
+* NodeJS
+* JavaScript
 * Git
 * Orientação a objetos
 * Scripts - Google Sheets
