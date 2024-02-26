@@ -6,7 +6,7 @@ Olá! Bem vindo a este perfil.	😎
 
 <h4>
 <p align="center">
-Thiago, 22 anos, Desenvolvedor em formação.
+Thiago, 23 anos, Desenvolvedor em formação.
 </p>
 <p align="right">
 
