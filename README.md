@@ -6,7 +6,7 @@ Olá! Bem vindo a este perfil.	😎
 
 <h4>
 <p align="center">
-Thiago, 23 anos, Desenvolvedor em formação.
+Thiago Mauesck - Desenvolvedor em formação.
 </p>
 <p align="right">
 
@@ -25,9 +25,16 @@ Thiago, 23 anos, Desenvolvedor em formação.
 * Java
 * NodeJS
 * JavaScript
+* Sql
 * Git
-* Orientação a objetos
+* MVC com Orientação a objetos
 * Scripts - Google Sheets
+
+#
+
+###	Projetos FrontEnd:
+* Projeto Webpage - https://mauesck.github.io/projeto-webtech/public/index.html - Repositório: https://github.com/mauesck/projeto-notas
+* Projeto Notepad - https://mauesck.github.io/projeto-notas/public/index.html - Repositório: https://github.com/mauesck/projeto-webtech
 
 #
 
