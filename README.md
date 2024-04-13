@@ -35,6 +35,7 @@ Thiago Mauesck - Desenvolvedor em formação.
 ###	Projetos FrontEnd:
 * Projeto Webpage - https://mauesck.github.io/projeto-webtech/public/index.html - Repositório: https://github.com/mauesck/projeto-notas
 * Projeto Notepad - https://mauesck.github.io/projeto-notas/public/index.html - Repositório: https://github.com/mauesck/projeto-webtech
+* Projeto Notepad - https://mauesck.github.io/mauesck-portfolio/index.html - Repositório: https://github.com/mauesck/mauesck-portfolio
 
 #
 
