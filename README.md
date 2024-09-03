@@ -1,62 +1,25 @@
-<h2>
-<p align="center">
-Olá! Bem vindo a este perfil.	😎
-</p>
-</h2>
+# Olá, mundo! 👋
 
-<h4>
-<p align="center">
-Thiago Mauesck - Desenvolvedor em formação.
-</p>
-<p align="right">
+Eu sou o Thiago, um **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Tenho experiência no desenvolvimento de aplicações web utilizando uma variedade de linguagens, frameworks e ferramentas.
 
-</p>
-</h4>
+## 🚀 Tecnologias e Ferramentas
 
-#
+Aqui estão algumas das tecnologias, frameworks e bibliotecas com as quais eu tenho experiência:
 
-###	Sobre o curso:
-* Tecnologia em Análise e Desenvolvimento de Sistemas
-* 5º Semestre
+- **Linguagens**: JavaScript, TypeScript, HTML, CSS, Java, C#
+- **Back-end**: Node.js, Express.js, MySQL, PostgreSQL, Redis, TypeORM
+- **Front-end**: React.js, Vue.js, Next.js
+- **Estilização**: CSS, SCSS, Tailwind CSS, Vuetify, MaterialUI, Bootstrap
+- **Ferramentas de Desenvolvimento**: Git, Docker, Vite
+- **Outras Tecnologias**: RESTful APIs, JWT, WebSockets, Trello, Jira, Figma
 
-#
+## 📫 Como entrar em contato
 
-###	Competências:
-* Java
-* NodeJS
-* JavaScript
-* Sql
-* Git
-* MVC com Orientação a objetos
-* Scripts - Google Sheets
+Se quiser conversar sobre tecnologia ou oportunidades de colaboração, sinta-se à vontade para me enviar um e-mail:
 
-#
+**Email**: mauesckt@gmail.com
 
-###	Projetos FrontEnd:
-* Projeto Webpage - https://mauesck.github.io/projeto-webtech/public/index.html - Repositório: https://github.com/mauesck/projeto-notas
-* Projeto Notepad - https://mauesck.github.io/projeto-notas/public/index.html - Repositório: https://github.com/mauesck/projeto-webtech
-* Projeto Portfólio - https://mauesck.github.io/mauesck-portfolio/index.html - Repositório: https://github.com/mauesck/mauesck-portfolio
-
-#
-
-<h3>
-<p align="center">Redes sociais: </p>
-</h3>
-
-<p align="center">
-<a href="https://instagram.com/mauesk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	<a href="https://www.linkedin.com/in/thiago-mauesck-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
-
-#
-<h3>
-<p align="center">Contato 📩</p>
-</h3>
-
-<p align="center">
-mauesckt@gmail.com
-</p>
-
-#
+---
 
 <div	align="center">
 <a href="https://github.com/mauesck">
